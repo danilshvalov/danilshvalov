@@ -1,5 +1,3 @@
-<h1 align=center>danilshvalov</h1>
-
 ## Dotfiles
 
 I keep my configuration files [here](https://github.com/danilshvalov/dotfiles).
