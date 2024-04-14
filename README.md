@@ -15,6 +15,7 @@ If you are an ITMO student of the 11.03.02 direction, the following resources ca
 - [Learning skills](https://github.com/danilshvalov/itmo-learning-skills)
 - [Remote commands](https://github.com/danilshvalov/itmo-remote-commands)
 - [Ecology](https://github.com/danilshvalov/itmo-ecology)
+- [Databases](https://github.com/danilshvalov/itmo-databases)
 
 ## Contacts
 
