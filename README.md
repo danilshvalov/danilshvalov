@@ -2,6 +2,16 @@
 
 I keep my configuration files [here](https://github.com/danilshvalov/dotfiles).
 
+## Contacts
+
+If you want to contact me, you can use the following contacts:
+- Telegram: [@danilshvalov](https://t.me/danilshvalov)
+- VK: [danilshvalov](https://vk.com/danilshvalov)
+- Emails:
+  - [daniil.shvalov@gmail.com](mailto:daniil.shvalov@gmail.com) (primary)
+  - [shvalovich@gmail.com](mailto:shvalovich@gmail.com)
+  - [shvalov1ch@yandex.ru](mailto:shvalov1ch@yandex.ru)
+
 ## ITMO
 
 If you are an ITMO student of the 11.03.02 direction, the following resources can help you:
@@ -17,15 +27,4 @@ If you are an ITMO student of the 11.03.02 direction, the following resources ca
 - [Ecology](https://github.com/danilshvalov/itmo-ecology)
 - [Databases](https://github.com/danilshvalov/itmo-databases)
 - [Application programming](https://github.com/danilshvalov/itmo-application-programming)
-
-## Contacts
-
-If you want to contact me, you can use the following contacts:
-- Telegram: [@danilshvalov](https://t.me/danilshvalov)
-- VK: [danilshvalov](https://vk.com/danilshvalov)
-- Emails:
-  - [daniil.shvalov@gmail.com](mailto:daniil.shvalov@gmail.com) (primary)
-  - [shvalovich@gmail.com](mailto:shvalovich@gmail.com)
-  - [shvalov1ch@yandex.ru](mailto:shvalov1ch@yandex.ru)
- 
-You may also be interested in my blog, in which I write about everything: [OnlyBugs](onlybugs.ru).
+- [System administation](https://github.com/danilshvalov/itmo-system-administation)
