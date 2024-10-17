@@ -27,4 +27,5 @@ If you are an ITMO student of the 11.03.02 direction, the following resources ca
 - [Ecology](https://github.com/danilshvalov/itmo-ecology)
 - [Databases](https://github.com/danilshvalov/itmo-databases)
 - [Application programming](https://github.com/danilshvalov/itmo-application-programming)
+- [Java programming](https://github.com/danilshvalov/itmo-java-programming)
 - [System administration](https://github.com/danilshvalov/itmo-system-administration)
