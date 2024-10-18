@@ -14,7 +14,10 @@ If you want to contact me, you can use the following contacts:
 
 ## ITMO
 
-If you are an ITMO student of the 11.03.02 direction, the following resources can help you:
+If you are an ITMO student of the 11.03.02 direction, the following resources can help you.
+
+<details>
+  <summary>Resources</summary>
 
 - [Discrete math](https://github.com/danilshvalov/discrete-math)
 - [Web programming](https://github.com/danilshvalov/itmo-web-programming)
@@ -29,3 +32,7 @@ If you are an ITMO student of the 11.03.02 direction, the following resources ca
 - [Application programming](https://github.com/danilshvalov/itmo-application-programming)
 - [Java programming](https://github.com/danilshvalov/itmo-java-programming)
 - [System administration](https://github.com/danilshvalov/itmo-system-administration)
+- [English ICT](https://github.com/danilshvalov/itmo-english-ict)
+</details>
+
+
