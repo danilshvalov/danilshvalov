@@ -32,6 +32,7 @@ If you are an ITMO student of the 11.03.02 direction, the following resources ca
 - [Application programming](https://github.com/danilshvalov/itmo-application-programming)
 - [Java programming](https://github.com/danilshvalov/itmo-java-programming)
 - [System administration](https://github.com/danilshvalov/itmo-system-administration)
+- [Team development](https://github.com/danilshvalov/itmo-team-development)
 - [English ICT](https://github.com/danilshvalov/itmo-english-ict)
 </details>
 
