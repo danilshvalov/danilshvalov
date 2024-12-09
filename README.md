@@ -33,6 +33,9 @@ If you are an ITMO student of the 11.03.02 direction, the following resources ca
 - [Java programming](https://github.com/danilshvalov/itmo-java-programming)
 - [System administration](https://github.com/danilshvalov/itmo-system-administration)
 - [Team development](https://github.com/danilshvalov/itmo-team-development)
+- [Modeling methods](https://github.com/danilshvalov/itmo-modeling-methods)
+- [Client-server applications](https://github.com/danilshvalov/itmo-client-server-applications)
+- [Information security](https://github.com/danilshvalov/itmo-information-security)
 - [English ICT](https://github.com/danilshvalov/itmo-english-ict)
 </details>
 
