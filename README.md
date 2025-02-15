@@ -37,6 +37,8 @@ If you are an ITMO student of the 11.03.02 direction, the following resources ca
 - [Client-server applications](https://github.com/danilshvalov/itmo-client-server-applications)
 - [Information security](https://github.com/danilshvalov/itmo-information-security)
 - [English ICT](https://github.com/danilshvalov/itmo-english-ict)
+- [Windows network administration](https://github.com/danilshvalov/itmo-windows-network-administration)
+- [Linux administration](https://github.com/danilshvalov/itmo-linux-administration)
 </details>
 
 
