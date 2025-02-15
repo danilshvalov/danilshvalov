@@ -7,10 +7,7 @@ I keep my configuration files [here](https://github.com/danilshvalov/dotfiles).
 If you want to contact me, you can use the following contacts:
 - Telegram: [@danilshvalov](https://t.me/danilshvalov)
 - VK: [danilshvalov](https://vk.com/danilshvalov)
-- Emails:
-  - [daniil.shvalov@gmail.com](mailto:daniil.shvalov@gmail.com) (primary)
-  - [shvalovich@gmail.com](mailto:shvalovich@gmail.com)
-  - [shvalov1ch@yandex.ru](mailto:shvalov1ch@yandex.ru)
+- Email: [shvalov1ch@yandex.ru](mailto:shvalov1ch@yandex.ru)
 
 ## ITMO
 
